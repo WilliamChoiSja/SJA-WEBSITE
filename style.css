@@ -9,13 +9,9 @@ h1{
   font-weight: bold;
   font-size: 64px;
 }
-p{
+.basictext1{
   color: rgb(98, 210, 248);  
   font-size: 16px;
-}
-h2{
-  color: white;
-  font-size: 17px;
 }
 .list1{
     color: rgb(98, 210, 248);
