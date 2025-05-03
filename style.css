@@ -18,7 +18,13 @@ h2{
   font-size: 17px;
 }
 .list1{
-    color: blue;
+    color: lightblue;
     font-size: 18px;
     text-align: left;
   }
+.title1{
+    color: white;    
+    font-weight: bold;
+    font-size: 64px;
+  }
+  
