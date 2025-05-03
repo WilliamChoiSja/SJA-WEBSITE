@@ -1,7 +1,7 @@
 body{
     text-align: center;
     font-family: Verdana;
-    background-color: lightblue;
+    background-color: red;
     color: white;
 }
 h1{
@@ -16,20 +16,4 @@ p{
 h2{
   color: white;
   font-size: 17px;
-}
-#life{
-        color: Blue;
-        font-style: italic;
-}
-#geek{
-        color: Red;
-        font-style: italic;
-}
-#review{
-        color: Green;
-        font-style: italic;
-}
-.audio{
-        color: Purple;
-        font-style: italic;
 }
