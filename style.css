@@ -32,7 +32,7 @@ a:link{
 a:visited{
   color: white;
   background-color: transparent;
-  text-decoration: underline;
+  text-decoration: none;
 }
 a:hover{
   color: rgb(244, 161, 8);
