@@ -23,7 +23,19 @@ h1{
     font-weight: bold;
     font-size: 64px;
 }
-nav{
-  color: white;    
-  font-weight: bold;
+a:link{
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited{
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover{
+  color: rgb(244, 161, 8);
+  background-color: transparent;
+  text-decoration: underline;
 }
